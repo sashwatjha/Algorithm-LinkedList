@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Module1 {
+public class Module1_LL {
 
     static class Node{
 
